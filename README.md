@@ -269,8 +269,15 @@ and in the Promised Land</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(164).pdf" style="text-decoration:none;"> The Other Side of Despair: Jews and Arabs in the Promised land</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(165).pdf" style="text-decoration:none;">A History Of The Jews In Christian Spain</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(166).pdf" style="text-decoration:none;">Cosmopolitans: A Social and Cultural History of the Jews of the San Francisco Bay Area</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(167).pdf" style="text-decoration:none;"> Hidden Children of the Holocaust: Belgian Nuns and their Daring Rescue of Young Jews from the Nazis</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(168).pdf" style="text-decoration:none;">Religious Identity in Late Antiquity: Greeks, Jews and Christians in Antioch</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(169).pdf" style="text-decoration:none;">The Port Jews of Habsburg Trieste : Absolutist Politics and Enlightenment Culture Stanford Studies in Jewish History and Culture</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(170).pdf" style="text-decoration:none;"> The Vanished World of Lithuanian Jews</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(172).pdf" style="text-decoration:none;">Plumes: Ostrich Feathers, Jews, and a Lost World of Global Commerce</a></b></li>
 
 
 
