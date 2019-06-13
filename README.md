@@ -205,4 +205,66 @@ the Mishnah and the Talmud</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(118).pdf" style="text-decoration:none;"> To the End of the Earth: A History of the Crypto-Jews of New Mexico</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(119).pdf" style="text-decoration:none;">Twentieth Century Jews Forging Identity in the Land of Promise
 and in the Promised Land</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(122).pdf" style="text-decoration:none;">The Wandering Jew</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(123).pdf" style="text-decoration:none;">The Wars of the Jews or History of the Destruction of Jerusalem</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(124).pdf" style="text-decoration:none;">Weep Over Jerusalem: The Gospel Truth About The Jews</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(125).pdf" style="text-decoration:none;">What Does a Jew Want? On Binationalism and Other Specters</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(126).pdf" style="text-decoration:none;">What is a Jew?</a></b></li>  
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(127).pdf" style="text-decoration:none;"> What World-Famous Men Said About the Jews</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(128).pdf" style="text-decoration:none;"> Why Should Jews Survive?: Looking Past the Holocaust toward a Jewish Future</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(129).pdf" style="text-decoration:none;">Zionism and the Biology of Jews</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(130).pdf" style="text-decoration:none;">British Mission To The Jews In  Nineteenth-century Palestine</a></b></li>  
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(131).pdf" style="text-decoration:none;">The last jews in baghdad </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(132).pdf" style="text-decoration:none;">Christian Attitudes Toward the Jews in the Middle Ages: A Casebook</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(133).pdf" style="text-decoration:none;">Conflict and Coexistence: Archbishop Rodrigo and the Muslims and Jews of Medieval Spain</a></b></li>
+                     
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(135).pdf" style="text-decoration:none;">Swastika, the Nazi Terror</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(136).pdf" style="text-decoration:none;">A Cross Too Heavy: Pope Pius XII and the Jews of Europe </a></b></li>
+                                        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(138).pdf" style="text-decoration:none;">The Jews of Iran in the Nineteenth Century</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(139).pdf" style="text-decoration:none;">The Colors of Zion: Blacks, Jews, and Irish from 1845 to 1945</a></b></li>
+
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(140).pdf" style="text-decoration:none;">We Only Know Men: The Rescue of Jews in France during the Holocaust</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(141).pdf" style="text-decoration:none;">Jews and Gender: The Challenge to Hierarchy </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(142).pdf" style="text-decoration:none;">Behind the Humanitarian Mask: The Nordic Countries, Israel, and the Jews</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(143).pdf" style="text-decoration:none;">The Tent of Abraham: Stories of Hope and Peace for Jews, Christians, and Muslims</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(144).pdf" style="text-decoration:none;">Jews, Turks, and Other Strangers</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(145).pdf" style="text-decoration:none;">Jew or Juif?: Jews, French Canadians, and Anglo-Canadians, 1759–1914</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(147).pdf" style="text-decoration:none;"> The Enemy I Knew: German Jews in the Allied Military in World War II</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(148).pdf" style="text-decoration:none;"> The Jews in Babylonia in the Time of Ezra and Nehemiah according to Babylonian Inscriptions</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(149).pdf" style="text-decoration:none;">Jews in Christian America: The Pursuit of Religious Equality</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(150).pdf" style="text-decoration:none;">Blacks and Jews in Literary Conversation</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(151).pdf" style="text-decoration:none;">Studies in Contemporary Jewry (An Annual XXII)</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(152).pdf" style="text-decoration:none;">The Jews of Britain, 1656 to 2000</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(153).pdf" style="text-decoration:none;">Homelands and Diasporas: Greeks, Jews and Their Migrations</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(154).pdf" style="text-decoration:none;">Jews and the State: Dangerous Alliances and the Perils of Privilege</a></b></li>  
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(155).pdf" style="text-decoration:none;"> The First to Cry Down Injustice?: Western Jews and Japanese Removal during WWII</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(156).pdf" style="text-decoration:none;"> Blood and Belief: The Circulation of a Symbol between Jews and Christians</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(157).pdf" style="text-decoration:none;">The Politics of Canonicity: Lines of Resistance in Modernist Hebrew Poetry</a></b></li>
+
+
+
+
+
+
+
+
+
 </ul>
