@@ -138,43 +138,42 @@ the Mishnah and the Talmud</a></b></li>
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(82).pdf" style="text-decoration:none;">The Jews And Modern Capitalism</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(83).pdf" style="text-decoration:none;">Selenium WebDriver Recipes in Java</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(83).pdf" style="text-decoration:none;">Studying the Jew Scholarly Antisemitism in Nazi Germany</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(84).pdf" style="text-decoration:none;">The Phoenix Project: A Novel About IT, jews, and Helping Your Business Win</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(84).pdf" style="text-decoration:none;">How the Jews Betrayed Mankind: The Sumerian Swindle</a></b></li> 
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(85).pdf" style="text-decoration:none;">Architecting for Scale: High Availability for Your Growing Applications</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(85).pdf" style="text-decoration:none;">The Age of Secrecy: Jews, Christians, and the Economy of Secrets, 1400–1800</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(86).pdf" style="text-decoration:none;">Practical jews for Big Data</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(86).pdf" style="text-decoration:none;">The Antiquities of the Jews</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(87).pdf" style="text-decoration:none;">Practical Linux Topics</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(87).pdf" style="text-decoration:none;">The Artless Jew: Medieval and Modern Affirmations and Denials of the Visual</a></b></li> 
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(88).pdf" style="text-decoration:none;">Getting Started with Kubernetes</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(88).pdf" style="text-decoration:none;">The Columbia History of Jews and Judaism in America</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(89).pdf" style="text-decoration:none;">Just Culture: Balancing Safety and Accountability</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(89).pdf" style="text-decoration:none;">The Destruction Of The European Jews</a></b></li> 
     
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(90).pdf" style="text-decoration:none;">Site Reliability Engineering: How Google Runs Production Systems</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(90).pdf" style="text-decoration:none;">The Deutsche Bank and the Nazi Economic War Against the Jews</a></b></li> 
      
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(91).pdf" style="text-decoration:none;">jews Revealed Training Book</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(91).pdf" style="text-decoration:none;">The Economic History of European Jews</a></b></li> 
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(92).pdf" style="text-decoration:none;">JIRA Agile Essentials</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(92).pdf" style="text-decoration:none;">The Figural Jew</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(93).pdf" style="text-decoration:none;">Implementation of jews pipeline for Serverless Applications</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(93).pdf" style="text-decoration:none;">The Gifts of the Jews: How a Tribe of Desert Nomads Changed the Way Everyone Thinks and Feels </a></b></li> 
     
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(94).pdf" style="text-decoration:none;">Microservices for Java Developers: A Hands-on Introduction to Frameworks and Containers</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(94).pdf" style="text-decoration:none;">The Image of the Jews in Greek Literature</a></b></li>  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(95).pdf" style="text-decoration:none;">Microservices Best Practices for Java</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(95).pdf" style="text-decoration:none;">The Jews and the Bible</a></b></li> 
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(96).pdf" style="text-decoration:none;">Spring Microservices</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(96).pdf" style="text-decoration:none;">The Jews as a Chosen People</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(97).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(97).pdf" style="text-decoration:none;">The Jews Of Egypt</a></b></li> 
     
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(98).pdf" style="text-decoration:none;">Automate The Boring Stuff With Python</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(98).pdf" style="text-decoration:none;">The Jews Of France</a></b></li>  
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(99).pdf" style="text-decoration:none;">Microservices from Day One: Build robust and scalable software from the start</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(99).pdf" style="text-decoration:none;">The Jews of Lemberg</a></b></li> 
     
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(100).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
-L7-filter</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(100).pdf" style="text-decoration:none;">The Jews of the Ottoman Empire and the Turkish Republic</a></b></li>  
  
  
  
