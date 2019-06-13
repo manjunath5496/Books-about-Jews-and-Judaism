@@ -279,7 +279,18 @@ and in the Promised Land</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(170).pdf" style="text-decoration:none;"> The Vanished World of Lithuanian Jews</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(172).pdf" style="text-decoration:none;">Plumes: Ostrich Feathers, Jews, and a Lost World of Global Commerce</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(120).pdf" style="text-decoration:none;">Difficult Freedom: Essays on Judaism</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(121).pdf" style="text-decoration:none;"> American Judaism: A History</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(134).pdf" style="text-decoration:none;">Jews and Jewish Education in Germany Today</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(137).pdf" style="text-decoration:none;">What We Jews Believe</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(146).pdf" style="text-decoration:none;"> On the Jews and Their Lies</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(160).pdf" style="text-decoration:none;">Of Jews and Animals</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(171).pdf" style="text-decoration:none;">The Invention of the Jewish People</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(173).pdf" style="text-decoration:none;">Twelve Jews</a></b></li>
 
 
 
