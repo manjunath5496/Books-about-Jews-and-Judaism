@@ -293,5 +293,23 @@ and in the Promised Land</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(173).pdf" style="text-decoration:none;">Twelve Jews</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(174).pdf" style="text-decoration:none;"> An Introduction To Judaism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(175).pdf" style="text-decoration:none;">Confronting Genocide: Judaism, Christianity, Islam</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(176).pdf" style="text-decoration:none;">Impurity and Sin in Ancient Judaism</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(177).pdf" style="text-decoration:none;"> Jews and Judaism in Modern China</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(178).pdf" style="text-decoration:none;">Building Jewish in the Roman East</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(179).pdf" style="text-decoration:none;">Encyclopedia Of Judaism</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(180).pdf" style="text-decoration:none;">Israel's God and Rebecca's Children</a></b></li>
+
+
+
+
+
+
+
+
 
 </ul>
