@@ -176,5 +176,33 @@ the Mishnah and the Talmud</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(100).pdf" style="text-decoration:none;">The Jews of the Ottoman Empire and the Turkish Republic</a></b></li>  
  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(101).pdf" style="text-decoration:none;">Unwelcome Strangers: East European Jews in Imperial Germany </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(102).pdf" style="text-decoration:none;">The Jews Under Roman Rule</a></b></li>  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(103).pdf" style="text-decoration:none;">The Lemon Tree: An Arab, A Jew, And The Heart Of The Middle East</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(104).pdf" style="text-decoration:none;">The Misunderstood Jew: The Church And The Scandal Of The Jewish Jesus</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(105).pdf" style="text-decoration:none;">The Monotheists: Jews, Christians, and Muslims in Conflict and Competition</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(106).pdf" style="text-decoration:none;">The New Jew in Film: Exploring Jewishness and Judaism in Contemporary Cinema </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(107).pdf" style="text-decoration:none;">The Origin of the Jews: The Quest for Roots in a Rootless Age </a></b></li>                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(108).pdf" style="text-decoration:none;">The Popes Against the Jews</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(109).pdf" style="text-decoration:none;">The Religious Enlightenment: Jews, Christians, and Muslims from the Ancient to the Modern World</a></b></li>
+
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(110).pdf" style="text-decoration:none;">The Road to September 1939: Polish Jews, Zionists, and the Yishuv on the Eve of World War II</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(111).pdf" style="text-decoration:none;">The Secret Relationship Between Blacks and Jews </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(112).pdf" style="text-decoration:none;">The Social Roots of Discrimination: The Case of the Jews</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(113).pdf" style="text-decoration:none;">The State of the Jews</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(114).pdf" style="text-decoration:none;">The Years of Extermination: Nazi Germany and the Jews, 1939-1945</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(115).pdf" style="text-decoration:none;">The Haskalah Movement in Russia</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(116).pdf" style="text-decoration:none;">The Jew and Human Sacrifice: Human Blood and Jewish Ritual, an Historical and Sociological Inquiry </a></b></li>  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(117).pdf" style="text-decoration:none;"> Jesus the Jew : eschatological prophet, Galilean Hasid or cynic sage?</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(118).pdf" style="text-decoration:none;"> To the End of the Earth: A History of the Crypto-Jews of New Mexico</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(119).pdf" style="text-decoration:none;">Twentieth Century Jews Forging Identity in the Land of Promise
+and in the Promised Land</a></b></li>
 </ul>
