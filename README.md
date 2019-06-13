@@ -259,6 +259,15 @@ and in the Promised Land</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(156).pdf" style="text-decoration:none;"> Blood and Belief: The Circulation of a Symbol between Jews and Christians</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(157).pdf" style="text-decoration:none;">The Politics of Canonicity: Lines of Resistance in Modernist Hebrew Poetry</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(158).pdf" style="text-decoration:none;"> Identity Matters: John, the Jews and Jewishness</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(159).pdf" style="text-decoration:none;">In Times of Crisis: Essays on European Culture, Germans, and Jews</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(161).pdf" style="text-decoration:none;"> Why Blacks, Women and Jews Are Not Mentioned in the Constitution, and Other Unorthodox Views</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(162).pdf" style="text-decoration:none;"> Reconstructing a National Identity: The Jews of Habsburg Austria during World War I</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(163).pdf" style="text-decoration:none;">Jews in Nevada: A History</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(164).pdf" style="text-decoration:none;"> The Other Side of Despair: Jews and Arabs in the Promised land</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/jew(165).pdf" style="text-decoration:none;">A History Of The Jews In Christian Spain</a></b></li>
 
 
 
